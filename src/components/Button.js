@@ -8,7 +8,7 @@ class Button extends React.Component{
     }
     render(){
         return (
-            <button onClick={this.props.clicked} id="button">click</button>
+            <button onClick={this.props.clicked} id="click">click</button>
         )
     }
 }
